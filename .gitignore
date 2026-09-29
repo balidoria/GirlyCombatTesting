@@ -73,3 +73,5 @@ ShaderAutogen/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Intermediate/CachedAssetRegistry/CachedAssetRegistry_0.ref
+Intermediate/CachedAssetRegistry/CachedAssetRegistry_0_15F78E9E4B5750572B12708E8D9163D2.bin
