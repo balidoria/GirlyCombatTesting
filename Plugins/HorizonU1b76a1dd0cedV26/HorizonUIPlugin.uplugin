@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"Version": 322,
+	"VersionName": "5.8.0",
+	"FriendlyName": "Horizon UI Plugin",
+	"Description": "UMG extension for UnrealEngine",
+	"Category": "Horizon",
+	"CreatedBy": "dorgon chang",
+	"CreatedByURL": "https://github.com/dorgonman/",
+	"DocsURL": "https://github.com/dorgonman/HorizonUIPluginDemo",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/8b94d073d32443b497d4a9e8b1e210f7",
+	"SupportURL": "https://discord.gg/surfzAz",
+	"EngineVersion": "5.8.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "HorizonUI",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "Paper2D",
+			"Enabled": true
+		}
+	]
+}
